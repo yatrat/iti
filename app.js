@@ -1,4 +1,4 @@
-const DATA_URL = "https://cdn.jsdelivr.net/gh/yatrat/iti@v1/itinerary.json";
+const DATA_URL = "https://cdn.jsdelivr.net/gh/yatrat/iti@v1.1/itinerary.json";
 
 let allData = {};
 
@@ -73,9 +73,7 @@ function render(city) {
     app.appendChild(div);
   });
 
-  if (days === 5) {
-    renderDay5Message();
-  }
+
 
   const foodTitle = document.createElement("h2");
   foodTitle.textContent = "Food Recommendations";
@@ -107,7 +105,9 @@ function render(city) {
     div.innerHTML = `<strong>Emergency Contacts</strong><br>Police: ${city.emergency.police}<br>Ambulance: ${city.emergency.ambulance}`;
     app.appendChild(div);
   }
-
+  if (days === 5) {
+    renderDay5Message();
+  }
   const legal = document.createElement("p");
   legal.className = "legal";
   legal.textContent = "This itinerary is a general guide. Prices, availability, and timings may vary.";
