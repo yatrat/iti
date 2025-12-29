@@ -1,4 +1,4 @@
-const DATA_URL = "https://raw.githubusercontent.com/yatra/iti/main/itinerary.json";
+const DATA_URL = "https://cdn.jsdelivr.net/gh/yatrat/iti@v1/itinerary.json";
 
 let allData = {};
 
