@@ -1,0 +1,4734 @@
+{
+  "cities": {
+    "shimla": {
+      "name": "Shimla",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Colonial Heritage Walk",
+          "activities": [
+            { "name": "Mall Road Shopping", "duration": 2 },
+            { "name": "Christ Church Visit", "duration": 1 },
+            { "name": "Scandal Point Photo", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Spiritual & Scenic",
+          "activities": [
+            { "name": "Jakhoo Temple & Ropeway", "duration": 2 },
+            { "name": "Viceregal Lodge Tour", "duration": 2 },
+            { "name": "Tara Devi Temple Sunset", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature Excursion",
+          "activities": [
+            { "name": "Kufri Day Trip", "duration": 5 },
+            { "name": "Horse Riding in Kufri", "duration": 1 },
+            { "name": "Himalayan Zoo Visit", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Chadwick Falls Visit", "duration": 2 },
+            { "name": "State Museum Tour", "duration": 2 },
+            { "name": "Local Handicraft Shopping", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Madra", "place": "Local Dhabas", "cost": 250 },
+        { "name": "Sidu with Ghee", "place": "Himachali Kitchen", "cost": 180 },
+        { "name": "Chana Madra", "place": "Traditional restaurants", "cost": 200 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Lower Bazaar" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mall Road" }],
+        "luxury": [{ "name": "Heritage Properties", "price": null, "area": "Chaura Maidan" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "manali": {
+      "name": "Manali",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Manali Town Tour",
+          "activities": [
+            { "name": "Hadimba Temple Visit", "duration": 2 },
+            { "name": "Manu Temple Exploration", "duration": 1 },
+            { "name": "Mall Road Evening Walk", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Adventure Day",
+          "activities": [
+            { "name": "Solang Valley Activities", "duration": 4 },
+            { "name": "Paragliding Experience", "duration": 1 },
+            { "name": "Zorbing in Solang", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Relaxation & Culture",
+          "activities": [
+            { "name": "Vashisht Hot Water Springs", "duration": 2 },
+            { "name": "Old Manali Cafe Hopping", "duration": 2 },
+            { "name": "Tibetan Monastery Visit", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nature Exploration",
+          "activities": [
+            { "name": "Jogini Waterfall Trek", "duration": 3 },
+            { "name": "Naggar Castle Visit", "duration": 2 },
+            { "name": "Beas River Riverside", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Trout Fish", "place": "Riverside cafes", "cost": 400 },
+        { "name": "Siddu with Butter", "place": "Local eateries", "cost": 150 },
+        { "name": "Patande", "place": "Breakfast spots", "cost": 180 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Hostels", "price": null, "area": "Old Manali" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Circuit House Road" }],
+        "luxury": [{ "name": "Riverfront Resorts", "price": null, "area": "Prini" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "dharamshala": {
+      "name": "Dharamshala",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "McLeod Ganj Exploration",
+          "activities": [
+            { "name": "Dalai Lama Temple", "duration": 2 },
+            { "name": "Tibetan Museum", "duration": 1 },
+            { "name": "McLeod Gaj Market", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Spiritual Journey",
+          "activities": [
+            { "name": "Namgyal Monastery", "duration": 2 },
+            { "name": "St. John Church", "duration": 1 },
+            { "name": "Bhagsunath Temple", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature Trekking",
+          "activities": [
+            { "name": "Triund Trek", "duration": 6 },
+            { "name": "Bhagsu Waterfall", "duration": 2 },
+            { "name": "Dharamkot Village", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Cultural Experience",
+          "activities": [
+            { "name": "Tibetan Institute Tour", "duration": 2 },
+            { "name": "Kangra Art Museum", "duration": 2 },
+            { "name": "Local Momo Tasting", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Thukpa", "place": "Tibetan cafes", "cost": 200 },
+        { "name": "Momos", "place": "Street stalls", "cost": 100 },
+        { "name": "Thenthuk", "place": "Local restaurants", "cost": 180 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Dharamshala Market" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "McLeod Ganj" }],
+        "luxury": [{ "name": "Boutique Hotels", "price": null, "area": "Upper Dharamshala" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "mussoorie": {
+      "name": "Mussoorie",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Mall Road & Gun Hill",
+          "activities": [
+            { "name": "Mall Road Walk", "duration": 2 },
+            { "name": "Gun Hill Ropeway", "duration": 2 },
+            { "name": "Camel's Back Road", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Waterfalls & Nature",
+          "activities": [
+            { "name": "Kempty Falls", "duration": 3 },
+            { "name": "Bhatta Falls", "duration": 2 },
+            { "name": "Mussoorie Lake", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Heritage & Education",
+          "activities": [
+            { "name": "Christ Church", "duration": 1 },
+            { "name": "Woodstock School", "duration": 1 },
+            { "name": "Company Garden", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Adventure & Shopping",
+          "activities": [
+            { "name": "Lal Tibba Viewpoint", "duration": 2 },
+            { "name": "Adventure Activities", "duration": 3 },
+            { "name": "Local Handicraft Shopping", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Garhwali Thali", "place": "Local restaurants", "cost": 300 },
+        { "name": "Momos", "place": "Street food", "cost": 80 },
+        { "name": "Aloo Ke Gutke", "place": "Traditional eateries", "cost": 150 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Lodges", "price": null, "area": "Library Bazaar" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mall Road" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Landour" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "nainital": {
+      "name": "Nainital",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Lake & Mallital",
+          "activities": [
+            { "name": "Naini Lake Boating", "duration": 2 },
+            { "name": "Mall Road Walk", "duration": 2 },
+            { "name": "Naina Devi Temple", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Viewpoints & Cable Car",
+          "activities": [
+            { "name": "Snow View Point", "duration": 2 },
+            { "name": "Tiffin Top (Dorothy's Seat)", "duration": 2 },
+            { "name": "Gurney Trail Walk", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Excursion Day",
+          "activities": [
+            { "name": "Bhimtal Lake Visit", "duration": 3 },
+            { "name": "Sattal Lakes", "duration": 2 },
+            { "name": "Butterfly Museum", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nature & Adventure",
+          "activities": [
+            { "name": "Eco Cave Gardens", "duration": 2 },
+            { "name": "Lands End View", "duration": 1 },
+            { "name": "Shopping for Candles", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Bhatt Ki Churkani", "place": "Local restaurants", "cost": 250 },
+        { "name": "Aloo Ke Gutke", "place": "Street stalls", "cost": 120 },
+        { "name": "Bal Mithai", "place": "Sweet shops", "cost": 200 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Tallital" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mall Road" }],
+        "luxury": [{ "name": "Lake View Hotels", "price": null, "area": "Mallital" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "rishikesh": {
+      "name": "Rishikesh",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Temples & Ashrams",
+          "activities": [
+            { "name": "Triveni Ghat Aarti", "duration": 2 },
+            { "name": "Bharat Mandir", "duration": 1 },
+            { "name": "Ram Jhula Walk", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Spiritual Ashrams",
+          "activities": [
+            { "name": "Parmarth Niketan", "duration": 2 },
+            { "name": "Sivananda Ashram", "duration": 2 },
+            { "name": "Gita Bhavan", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Adventure Activities",
+          "activities": [
+            { "name": "River Rafting", "duration": 3 },
+            { "name": "Bungee Jumping", "duration": 2 },
+            { "name": "Flying Fox", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nature & Cafes",
+          "activities": [
+            { "name": "Beatles Ashram", "duration": 2 },
+            { "name": "Neelkanth Mahadev Temple", "duration": 3 },
+            { "name": "Cafe Hopping in Laxman Jhula", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Aloo Puri", "place": "Ashram canteens", "cost": 100 },
+        { "name": "Italian Food", "place": "Israeli cafes", "cost": 300 },
+        { "name": "Lassi", "place": "Local shops", "cost": 80 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Ashrams", "price": null, "area": "Swarg Ashram" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Laxman Jhula" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Muni Ki Reti" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "haridwar": {
+      "name": "Haridwar",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Ghats & Aarti",
+          "activities": [
+            { "name": "Har Ki Pauri Aarti", "duration": 2 },
+            { "name": "Ganga Snan", "duration": 1 },
+            { "name": "Evening Ganga Aarti", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Temples & Ashrams",
+          "activities": [
+            { "name": "Mansa Devi Temple", "duration": 2 },
+            { "name": "Chandi Devi Temple", "duration": 2 },
+            { "name": "Shanti Kunj Ashram", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Spiritual Sites",
+          "activities": [
+            { "name": "Maya Devi Temple", "duration": 1 },
+            { "name": "Daksh Mahadev Temple", "duration": 2 },
+            { "name": "Sapt Rishi Ashram", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Bazaar Shopping", "duration": 2 },
+            { "name": "Ayurvedic Massage", "duration": 2 },
+            { "name": "Gurukul Kangri Visit", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Kachori Sabzi", "place": "Local stalls", "cost": 80 },
+        { "name": "Aloo Puri", "place": "Breakfast joints", "cost": 100 },
+        { "name": "Pedas", "place": "Sweet shops", "cost": 200 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Dharamshalas", "price": null, "area": "Har Ki Pauri" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Railway Road" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Bahadrabad" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "amritsar": {
+      "name": "Amritsar",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Golden Temple",
+          "activities": [
+            { "name": "Golden Temple Darshan", "duration": 3 },
+            { "name": "Langar Experience", "duration": 1 },
+            { "name": "Night Ceremony", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Historical Sites",
+          "activities": [
+            { "name": "Jallianwala Bagh", "duration": 2 },
+            { "name": "Partition Museum", "duration": 2 },
+            { "name": "Gobindgarh Fort", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Cultural Experience",
+          "activities": [
+            { "name": "Wagah Border Ceremony", "duration": 4 },
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Traditional Dance Show", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Food & More",
+          "activities": [
+            { "name": "Amritsari Kulcha Breakfast", "duration": 2 },
+            { "name": "Durgiana Temple", "duration": 2 },
+            { "name": "Heritage Walk", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Amritsari Kulcha", "place": "Kulcha Land", "cost": 150 },
+        { "name": "Lassi", "place": "Creamy Lassi", "cost": 100 },
+        { "name": "Punjabi Thali", "place": "Traditional dhabas", "cost": 350 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Golden Temple Area" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Town Hall" }],
+        "luxury": [{ "name": "Five Star Hotels", "price": null, "area": "Ranjit Avenue" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "jaipur": {
+      "name": "Jaipur",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Pink City Heritage",
+          "activities": [
+            { "name": "Hawa Mahal", "duration": 1 },
+            { "name": "City Palace", "duration": 2 },
+            { "name": "Jantar Mantar", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Forts & Monuments",
+          "activities": [
+            { "name": "Amber Fort", "duration": 3 },
+            { "name": "Jaigarh Fort", "duration": 2 },
+            { "name": "Nahargarh Fort Sunset", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Cultural Jaipur",
+          "activities": [
+            { "name": "Albert Hall Museum", "duration": 2 },
+            { "name": "Birla Temple", "duration": 1 },
+            { "name": "Chokhi Dhani Village", "duration": 3 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Shopping & Relaxation",
+          "activities": [
+            { "name": "Bapu Bazaar Shopping", "duration": 2 },
+            { "name": "Johari Bazaar", "duration": 2 },
+            { "name": "Local Food Tour", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Dal Baati Churma", "place": "Traditional restaurants", "cost": 350 },
+        { "name": "Laal Maas", "place": "Rajasthani eateries", "cost": 400 },
+        { "name": "Ghewar", "place": "Sweet shops", "cost": 200 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Station Road" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "MI Road" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Civil Lines" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "udaipur": {
+      "name": "Udaipur",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "City Palace & Old Town",
+          "activities": [
+            { "name": "City Palace", "duration": 2 },
+            { "name": "Jag Mandir Boat Ride", "duration": 2 },
+            { "name": "Jagdeesh Temple", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Lakes & Gardens",
+          "activities": [
+            { "name": "Fateh Sagar Lake", "duration": 1 },
+            { "name": "Saheliyon Ki Bari", "duration": 1 },
+            { "name": "Sajjangarh (Monsoon Palace)", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Temples & Forts",
+          "activities": [
+            { "name": "Eklingji Temple", "duration": 2 },
+            { "name": "Nagda Ruins", "duration": 1 },
+            { "name": "Kumbhalgarh Fort", "duration": 3 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Museums & Relax",
+          "activities": [
+            { "name": "Vintage Car Museum", "duration": 1 },
+            { "name": "Bharatiya Lok Kala Museum", "duration": 1 },
+            { "name": "Lake Pichola Sunset Cruise", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Dal Baati Churma", "place": "Krishna Dal Bati", "cost": 350 },
+        { "name": "Gatte Ki Sabzi", "place": "Traditional restaurants", "cost": 300 },
+        { "name": "Makhaniya Lassi", "place": "Bholenath Lassi", "cost": 120 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guest Houses", "price": null, "area": "Lal Ghat" }],
+        "mid": [{ "name": "Heritage Hotels", "price": null, "area": "Old City" }],
+        "luxury": [{ "name": "Lake Palace Style Resorts", "price": null, "area": "Lake Pichola" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "jodhpur": {
+      "name": "Jodhpur",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Mehrangarh Fort",
+          "activities": [
+            { "name": "Mehrangarh Fort", "duration": 3 },
+            { "name": "Fort Museum", "duration": 1 },
+            { "name": "Light & Sound Show", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Blue City Exploration",
+          "activities": [
+            { "name": "Blue City Walk", "duration": 2 },
+            { "name": "Jaswant Thada", "duration": 1 },
+            { "name": "Clock Tower Market", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Palaces & Gardens",
+          "activities": [
+            { "name": "Umaid Bhawan Palace", "duration": 2 },
+            { "name": "Mandore Gardens", "duration": 2 },
+            { "name": "Balsamand Lake", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Cultural Experience",
+          "activities": [
+            { "name": "Traditional Cooking Class", "duration": 3 },
+            { "name": "Shopping for Handicrafts", "duration": 2 },
+            { "name": "Local Folk Performance", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Mirchi Vada", "place": "Street stalls", "cost": 50 },
+        { "name": "Mawa Kachori", "place": "Sweet shops", "cost": 80 },
+        { "name": "Laal Maas", "place": "Traditional restaurants", "cost": 400 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Station Road" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Raika Bagh" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Circuit House" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "jaisalmer": {
+      "name": "Jaisalmer",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Golden Fort Exploration",
+          "activities": [
+            { "name": "Jaisalmer Fort", "duration": 3 },
+            { "name": "Fort Palace Museum", "duration": 2 },
+            { "name": "Patwon Ki Haveli", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Desert Experience",
+          "activities": [
+            { "name": "Sam Sand Dunes", "duration": 4 },
+            { "name": "Camel Safari", "duration": 2 },
+            { "name": "Night Desert Camp Stay", "duration": 12 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Havelis & Lakes",
+          "activities": [
+            { "name": "Salim Singh Ki Haveli", "duration": 1 },
+            { "name": "Nathmal Ki Haveli", "duration": 1 },
+            { "name": "Gadisar Lake", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Cultural Jaisalmer",
+          "activities": [
+            { "name": "Desert Cultural Centre", "duration": 2 },
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Folk Music Night", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Ker Sangri", "place": "Local restaurants", "cost": 250 },
+        { "name": "Desert Thali", "place": "Traditional eateries", "cost": 300 },
+        { "name": "Mutton Kachra", "place": "Specialty restaurants", "cost": 350 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Fort Area" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Outside Fort" }],
+        "luxury": [{ "name": "Desert Camps", "price": null, "area": "Sam Sand Dunes" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "agra": {
+      "name": "Agra",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Taj Mahal Day",
+          "activities": [
+            { "name": "Taj Mahal Sunrise", "duration": 3 },
+            { "name": "Taj Museum", "duration": 1 },
+            { "name": "Taj Mahal Sunset View", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Agra Fort & More",
+          "activities": [
+            { "name": "Agra Fort", "duration": 3 },
+            { "name": "Itimad-ud-Daulah", "duration": 2 },
+            { "name": "Mehtab Bagh", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Fatehpur Sikri",
+          "activities": [
+            { "name": "Fatehpur Sikri Day Trip", "duration": 5 },
+            { "name": "Buland Darwaza", "duration": 1 },
+            { "name": "Salim Chisti Dargah", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Agra",
+          "activities": [
+            { "name": "Marble Inlay Workshop", "duration": 2 },
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Mughlai Food Tour", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Petha", "place": "Panchhi Petha", "cost": 150 },
+        { "name": "Mughlai Biryani", "place": "Traditional restaurants", "cost": 300 },
+        { "name": "Bedai with Sabzi", "place": "Breakfast stalls", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Taj Ganj" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Fatehabad Road" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Civil Lines" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "varanasi": {
+      "name": "Varanasi",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Ghats & Aarti",
+          "activities": [
+            { "name": "Dashashwamedh Ghat Aarti", "duration": 2 },
+            { "name": "Morning Boat Ride", "duration": 2 },
+            { "name": "Evening Ganga Aarti", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Temples & Alleys",
+          "activities": [
+            { "name": "Kashi Vishwanath Temple", "duration": 2 },
+            { "name": "Sarnath Day Trip", "duration": 4 },
+            { "name": "Narrow Alley Walk", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Spiritual Varanasi",
+          "activities": [
+            { "name": "Assi Ghat Morning", "duration": 2 },
+            { "name": "Tulsi Manas Temple", "duration": 1 },
+            { "name": "Banaras Hindu University", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Cultural Experience",
+          "activities": [
+            { "name": "Silk Sari Shopping", "duration": 2 },
+            { "name": "Local Food Tour", "duration": 2 },
+            { "name": "Classical Music Show", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Kachori Sabzi", "place": "Local stalls", "cost": 80 },
+        { "name": "Banarasi Paan", "place": "Paan shops", "cost": 50 },
+        { "name": "Malaiyyo", "place": "Seasonal sweet", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Godowlia" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Lahurabir" }],
+        "luxury": [{ "name": "Ghat-side Hotels", "price": null, "area": "Dashashwamedh" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "dehradun": {
+      "name": "Dehradun",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "City Exploration",
+          "activities": [
+            { "name": "Clock Tower", "duration": 1 },
+            { "name": "Paltan Bazaar", "duration": 2 },
+            { "name": "Robber's Cave", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Educational Institutions",
+          "activities": [
+            { "name": "Forest Research Institute", "duration": 2 },
+            { "name": "Indian Military Academy", "duration": 2 },
+            { "name": "Tapkeshwar Temple", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature & Wildlife",
+          "activities": [
+            { "name": "Rajaji National Park", "duration": 4 },
+            { "name": "Sahastradhara", "duration": 2 },
+            { "name": "Buddha Temple", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Delights",
+          "activities": [
+            { "name": "Basmati Rice Fields", "duration": 2 },
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Food Tasting Tour", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Garhwali Thali", "place": "Local restaurants", "cost": 300 },
+        { "name": "Lychee Products", "place": "Seasonal", "cost": 200 },
+        { "name": "Bal Mithai", "place": "Sweet shops", "cost": 150 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Paltan Bazaar" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Rajpur Road" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Saharanpur Road" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "kullu": {
+      "name": "Kullu",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Kullu Town",
+          "activities": [
+            { "name": "Raghunath Temple", "duration": 1 },
+            { "name": "Kullu Shawl Factory", "duration": 2 },
+            { "name": "Local Market", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Adventure Day",
+          "activities": [
+            { "name": "River Rafting in Beas", "duration": 3 },
+            { "name": "Paragliding", "duration": 1 },
+            { "name": "Angling Experience", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Valley Exploration",
+          "activities": [
+            { "name": "Bijli Mahadev Temple", "duration": 3 },
+            { "name": "Naggar Castle", "duration": 2 },
+            { "name": "Roerich Art Gallery", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nature & Relaxation",
+          "activities": [
+            { "name": "Great Himalayan National Park", "duration": 5 },
+            { "name": "Apple Orchards Visit", "duration": 2 },
+            { "name": "Local Handicraft Shopping", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Trout Fish", "place": "Riverside restaurants", "cost": 350 },
+        { "name": "Siddu", "place": "Local eateries", "cost": 120 },
+        { "name": "Aktori", "place": "Traditional food", "cost": 150 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Kullu Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Akara Bazaar" }],
+        "luxury": [{ "name": "Riverside Resorts", "price": null, "area": "Katrain" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+  
+
+    "kasol": {
+      "name": "Kasol",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Kasol Arrival & Relax",
+          "activities": [
+            { "name": "Riverside Walk", "duration": 2 },
+            { "name": "Local Market Exploration", "duration": 2 },
+            { "name": "Cafe Hopping", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Nature Trek",
+          "activities": [
+            { "name": "Kheerganga Trek", "duration": 6 },
+            { "name": "Hot Springs Bath", "duration": 1 },
+            { "name": "Camping Experience", "duration": 12 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Villages",
+          "activities": [
+            { "name": "Chalal Village Trek", "duration": 3 },
+            { "name": "Rashol Village", "duration": 4 },
+            { "name": "Israeli Food Tasting", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Parvati Valley",
+          "activities": [
+            { "name": "Manikaran Sahib", "duration": 3 },
+            { "name": "Hot Springs Visit", "duration": 1 },
+            { "name": "Shopping for Souvenirs", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Israeli Breakfast", "place": "Cafes", "cost": 300 },
+        { "name": "Trout Fish", "place": "Riverside restaurants", "cost": 350 },
+        { "name": "Momos", "place": "Street stalls", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Hostels", "price": null, "area": "Kasol Market" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Kasol Main" }],
+        "luxury": [{ "name": "Riverside Camps", "price": null, "area": "Parvati River" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "dalhousie": {
+      "name": "Dalhousie",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Colonial Town Walk",
+          "activities": [
+            { "name": "Mall Road", "duration": 2 },
+            { "name": "St. John's Church", "duration": 1 },
+            { "name": "Gandhi Chowk", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Panchpula & Surroundings",
+          "activities": [
+            { "name": "Panchpula Waterfall", "duration": 2 },
+            { "name": "Satdhara Falls", "duration": 2 },
+            { "name": "Subhash Baoli", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Khajjiar Day Trip",
+          "activities": [
+            { "name": "Khajjiar Mini Switzerland", "duration": 4 },
+            { "name": "Khajji Nag Temple", "duration": 1 },
+            { "name": "Horse Riding in Khajjiar", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nature & Views",
+          "activities": [
+            { "name": "Dainkund Peak", "duration": 3 },
+            { "name": "Kalatop Wildlife Sanctuary", "duration": 3 },
+            { "name": "Local Shopping", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Madra", "place": "Local restaurants", "cost": 250 },
+        { "name": "Sidu", "place": "Traditional eateries", "cost": 150 },
+        { "name": "Babru", "place": "Street food", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Gandhi Chowk" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mall Road" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Upper Bakrota" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "kasauli": {
+      "name": "Kasauli",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Town Exploration",
+          "activities": [
+            { "name": "Mall Road Walk", "duration": 2 },
+            { "name": "Christ Church", "duration": 1 },
+            { "name": "Sunset Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Nature Walks",
+          "activities": [
+            { "name": "Monkey Point Trek", "duration": 3 },
+            { "name": "Gilbert Trail", "duration": 2 },
+            { "name": "Temple Walk", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Heritage & Views",
+          "activities": [
+            { "name": "Baba Balak Nath Temple", "duration": 1 },
+            { "name": "Central Research Institute", "duration": 1 },
+            { "name": "Nahri Temple", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Relaxation Day",
+          "activities": [
+            { "name": "Local Cafe Hopping", "duration": 2 },
+            { "name": "Shopping for Honey", "duration": 1 },
+            { "name": "Nature Photography", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Local Honey", "place": "Street vendors", "cost": 200 },
+        { "name": "Momos", "place": "Local stalls", "cost": 80 },
+        { "name": "Chicken Stew", "place": "Restaurants", "cost": 250 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Lower Mall" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Upper Mall" }],
+        "luxury": [{ "name": "Heritage Bungalows", "price": null, "area": "Garkhal" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "lansdowne": {
+      "name": "Lansdowne",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Town Introduction",
+          "activities": [
+            { "name": "Tip-n-Top Viewpoint", "duration": 2 },
+            { "name": "St. Mary's Church", "duration": 1 },
+            { "name": "Local Market", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Military Heritage",
+          "activities": [
+            { "name": "Garhwali Museum", "duration": 2 },
+            { "name": "War Memorial", "duration": 1 },
+            { "name": "Cantonment Area Walk", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature & Temples",
+          "activities": [
+            { "name": "Bhulla Lake", "duration": 2 },
+            { "name": "Tarkeshwar Mahadev Temple", "duration": 3 },
+            { "name": "Jungle Walk", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Relaxation",
+          "activities": [
+            { "name": "Bird Watching", "duration": 2 },
+            { "name": "Photography Tour", "duration": 2 },
+            { "name": "Local Food Tasting", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Garhwali Thali", "place": "Local restaurants", "cost": 300 },
+        { "name": "Aloo Ke Gutke", "place": "Traditional eateries", "cost": 150 },
+        { "name": "Mandua Ki Roti", "place": "Homemade style", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Main Market" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Cantonment" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Outskirts" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "almora": {
+      "name": "Almora",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Town Exploration",
+          "activities": [
+            { "name": "Bright End Corner", "duration": 1 },
+            { "name": "Kasar Devi Temple", "duration": 2 },
+            { "name": "Local Market", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Temples & Heritage",
+          "activities": [
+            { "name": "Nanda Devi Temple", "duration": 2 },
+            { "name": "Deer Park", "duration": 1 },
+            { "name": "Gobind Vallabh Pant Museum", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature Excursion",
+          "activities": [
+            { "name": "Binsar Wildlife Sanctuary", "duration": 4 },
+            { "name": "Zero Point View", "duration": 1 },
+            { "name": "Nature Walk", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Traditional Weaving Center", "duration": 2 },
+            { "name": "Copperware Shopping", "duration": 2 },
+            { "name": "Local Folk Music", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Bhatt Ki Churkani", "place": "Local restaurants", "cost": 250 },
+        { "name": "Bal Mithai", "place": "Sweet shops", "cost": 200 },
+        { "name": "Singori", "place": "Traditional sweet", "cost": 150 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Lala Bazar" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mall Road" }],
+        "luxury": [{ "name": "Heritage Stays", "price": null, "area": "Upper Almora" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "ranikhet": {
+      "name": "Ranikhet",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Town Introduction",
+          "activities": [
+            { "name": "Mankameshwar Temple", "duration": 1 },
+            { "name": "Ranikhet Club", "duration": 1 },
+            { "name": "Local Market", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Military Heritage",
+          "activities": [
+            { "name": "Kumaon Regimental Centre", "duration": 2 },
+            { "name": "Museum Visit", "duration": 1 },
+            { "name": "Golf Course", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature & Views",
+          "activities": [
+            { "name": "Chaubatia Gardens", "duration": 2 },
+            { "name": "Haidakhan Temple", "duration": 2 },
+            { "name": "Bhalu Dam", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Apple Orchards",
+          "activities": [
+            { "name": "Apple Orchard Visit", "duration": 3 },
+            { "name": "Fruit Tasting", "duration": 1 },
+            { "name": "Nature Photography", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Kumaoni Thali", "place": "Local restaurants", "cost": 300 },
+        { "name": "Apple Products", "place": "Local shops", "cost": 200 },
+        { "name": "Bhatt Ki Dal", "place": "Traditional eateries", "cost": 150 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Sadar Bazaar" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mall Road" }],
+        "luxury": [{ "name": "Club Houses", "price": null, "area": "Cantonment" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "goa": {
+      "name": "Goa",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "North Goa Beaches",
+          "activities": [
+            { "name": "Calangute Beach", "duration": 3 },
+            { "name": "Baga Beach", "duration": 2 },
+            { "name": "Anjuna Flea Market", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Old Goa Heritage",
+          "activities": [
+            { "name": "Basilica of Bom Jesus", "duration": 1 },
+            { "name": "Se Cathedral", "duration": 1 },
+            { "name": "Fort Aguada", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "South Goa Relaxation",
+          "activities": [
+            { "name": "Palolem Beach", "duration": 3 },
+            { "name": "Butterfly Beach", "duration": 2 },
+            { "name": "Dolphin Watching", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Adventure & Nightlife",
+          "activities": [
+            { "name": "Water Sports", "duration": 3 },
+            { "name": "Spice Plantation Tour", "duration": 3 },
+            { "name": "Night Club Experience", "duration": 3 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Fish Curry Rice", "place": "Beach shacks", "cost": 300 },
+        { "name": "Pork Vindaloo", "place": "Goan restaurants", "cost": 350 },
+        { "name": "Bebinca", "place": "Local bakeries", "cost": 200 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Hostels", "price": null, "area": "Anjuna" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Calangute" }],
+        "luxury": [{ "name": "Beach Resorts", "price": null, "area": "Candolim" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "mysore": {
+      "name": "Mysore",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Mysore Palace",
+          "activities": [
+            { "name": "Mysore Palace", "duration": 3 },
+            { "name": "Palace Light Show", "duration": 1 },
+            { "name": "Devaraja Market", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Temples & Gardens",
+          "activities": [
+            { "name": "Chamundi Hill Temple", "duration": 2 },
+            { "name": "Brindavan Gardens", "duration": 2 },
+            { "name": "Musical Fountain Show", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Heritage & Museums",
+          "activities": [
+            { "name": "St. Philomena's Church", "duration": 1 },
+            { "name": "Rail Museum", "duration": 2 },
+            { "name": "Art Gallery", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Shopping & Relaxation",
+          "activities": [
+            { "name": "Sandalwood Shopping", "duration": 2 },
+            { "name": "Silk Sari Shopping", "duration": 2 },
+            { "name": "Local Food Tour", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Mysore Masala Dosa", "place": "Local restaurants", "cost": 120 },
+        { "name": "Mysore Pak", "place": "Sweet shops", "cost": 150 },
+        { "name": "Bisi Bele Bath", "place": "Traditional eateries", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Near Palace" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Yadavagiri" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Srirangapatna Road" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "pondicherry": {
+      "name": "Pondicherry",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "French Colony",
+          "activities": [
+            { "name": "French Quarter Walk", "duration": 3 },
+            { "name": "Promenade Beach", "duration": 2 },
+            { "name": "French Architecture", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Spiritual Pondicherry",
+          "activities": [
+            { "name": "Aurobindo Ashram", "duration": 2 },
+            { "name": "Auroville", "duration": 4 },
+            { "name": "Matrimandir", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Beaches & Temples",
+          "activities": [
+            { "name": "Paradise Beach", "duration": 3 },
+            { "name": "Varadaraja Temple", "duration": 1 },
+            { "name": "Botanical Garden", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Cafes & Shopping",
+          "activities": [
+            { "name": "French Cafe Hopping", "duration": 3 },
+            { "name": "Shopping for French Products", "duration": 2 },
+            { "name": "Wine Tasting", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "French Croissants", "place": "French Bakeries", "cost": 150 },
+        { "name": "Seafood Platter", "place": "Beach restaurants", "cost": 400 },
+        { "name": "Filter Coffee", "place": "Local cafes", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "White Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Beach Road" }],
+        "luxury": [{ "name": "French Villas", "price": null, "area": "French Quarter" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "ooty": {
+      "name": "Ooty",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Ooty Town",
+          "activities": [
+            { "name": "Ooty Lake Boating", "duration": 2 },
+            { "name": "Botanical Gardens", "duration": 2 },
+            { "name": "Rose Garden", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Toy Train & Views",
+          "activities": [
+            { "name": "Toy Train Ride", "duration": 2 },
+            { "name": "Doddabetta Peak", "duration": 2 },
+            { "name": "Pykara Lake", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Tea Gardens",
+          "activities": [
+            { "name": "Tea Factory Visit", "duration": 2 },
+            { "name": "Tea Garden Walk", "duration": 2 },
+            { "name": "Tea Tasting", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nature & Shopping",
+          "activities": [
+            { "name": "Mudumalai Safari", "duration": 4 },
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Chocolate Shopping", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Ooty Varkey", "place": "Bakeries", "cost": 100 },
+        { "name": "Homemade Chocolate", "place": "Chocolate shops", "cost": 250 },
+        { "name": "Avial", "place": "Local restaurants", "cost": 150 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Charring Cross" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Garden Road" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Fern Hill" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "kodaikanal": {
+      "name": "Kodaikanal",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Lake & Town",
+          "activities": [
+            { "name": "Kodaikanal Lake Boating", "duration": 2 },
+            { "name": "Coaker's Walk", "duration": 1 },
+            { "name": "Bryant Park", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Waterfalls & Views",
+          "activities": [
+            { "name": "Bear Shola Falls", "duration": 2 },
+            { "name": "Pillar Rocks", "duration": 2 },
+            { "name": "Guna Cave", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature Exploration",
+          "activities": [
+            { "name": "Silver Cascade Falls", "duration": 1 },
+            { "name": "Berijam Lake", "duration": 3 },
+            { "name": "Moir Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Shopping & Relax",
+          "activities": [
+            { "name": "Cheese Shopping", "duration": 1 },
+            { "name": "Homemade Chocolate", "duration": 1 },
+            { "name": "Local Handicrafts", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Homemade Cheese", "place": "Local shops", "cost": 200 },
+        { "name": "Kodai Chocolate", "place": "Chocolate shops", "cost": 250 },
+        { "name": "Avial", "place": "Vegetarian restaurants", "cost": 150 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Lake Road" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Club Road" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Green Valley" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "coorg": {
+      "name": "Coorg",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Madikeri Town",
+          "activities": [
+            { "name": "Raja's Seat", "duration": 1 },
+            { "name": "Madikeri Fort", "duration": 1 },
+            { "name": "Omkareshwara Temple", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Coffee Plantations",
+          "activities": [
+            { "name": "Coffee Plantation Tour", "duration": 3 },
+            { "name": "Coffee Tasting", "duration": 1 },
+            { "name": "Plantation Stay", "duration": 12 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Waterfalls & Nature",
+          "activities": [
+            { "name": "Abbey Falls", "duration": 2 },
+            { "name": "Dubare Elephant Camp", "duration": 3 },
+            { "name": "River Rafting", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Temples & Shopping",
+          "activities": [
+            { "name": "Talacauvery", "duration": 3 },
+            { "name": "Bhagamandala Temple", "duration": 1 },
+            { "name": "Coffee Powder Shopping", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Pork Curry", "place": "Local restaurants", "cost": 300 },
+        { "name": "Kadambuttu", "place": "Traditional eateries", "cost": 150 },
+        { "name": "Coorg Coffee", "place": "Plantation cafes", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Madikeri" }],
+        "mid": [{ "name": "Plantation Stays", "price": null, "area": "Outskirts" }],
+        "luxury": [{ "name": "Luxury Resorts", "price": null, "area": "Coffee Estates" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "munnar": {
+      "name": "Munnar",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Tea Gardens",
+          "activities": [
+            { "name": "Tea Museum", "duration": 2 },
+            { "name": "Tea Garden Walk", "duration": 2 },
+            { "name": "Tea Factory Visit", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Nature & Views",
+          "activities": [
+            { "name": "Echo Point", "duration": 1 },
+            { "name": "Mattupetty Dam", "duration": 2 },
+            { "name": "Top Station", "duration": 3 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Wildlife & Waterfalls",
+          "activities": [
+            { "name": "Eravikulam National Park", "duration": 3 },
+            { "name": "Attukal Waterfalls", "duration": 2 },
+            { "name": "Chinnar Wildlife Sanctuary", "duration": 3 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Spice Plantation Tour", "duration": 2 },
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Tea Tasting Session", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Kerala Sadya", "place": "Local restaurants", "cost": 250 },
+        { "name": "Appam with Stew", "place": "Breakfast spots", "cost": 150 },
+        { "name": "Tea", "place": "Tea stalls", "cost": 20 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Old Munnar" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Munnar Town" }],
+        "luxury": [{ "name": "Tea Estate Bungalows", "price": null, "area": "Devikulam" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "thekkady": {
+      "name": "Thekkady",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Periyar Wildlife",
+          "activities": [
+            { "name": "Periyar Boat Safari", "duration": 2 },
+            { "name": "Periyar Tiger Reserve", "duration": 3 },
+            { "name": "Elephant Ride", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Spice Gardens",
+          "activities": [
+            { "name": "Spice Plantation Tour", "duration": 3 },
+            { "name": "Spice Shopping", "duration": 1 },
+            { "name": "Ayurvedic Massage", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature & Culture",
+          "activities": [
+            { "name": "Mangala Devi Temple", "duration": 3 },
+            { "name": "Jungle Walk", "duration": 2 },
+            { "name": "Kathakali Performance", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experiences",
+          "activities": [
+            { "name": "Bamboo Rafting", "duration": 3 },
+            { "name": "Tribal Village Visit", "duration": 2 },
+            { "name": "Local Food Tasting", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Kerala Fish Curry", "place": "Local restaurants", "cost": 250 },
+        { "name": "Appam with Chicken Stew", "place": "Breakfast spots", "cost": 180 },
+        { "name": "Banana Chips", "place": "Street vendors", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Kumily" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Thekkady Road" }],
+        "luxury": [{ "name": "Jungle Resorts", "price": null, "area": "Periyar" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "kanyakumari": {
+      "name": "Kanyakumari",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Sunrise & Temples",
+          "activities": [
+            { "name": "Sunrise View", "duration": 2 },
+            { "name": "Kumari Amman Temple", "duration": 1 },
+            { "name": "Vivekananda Rock Memorial", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Monuments & Views",
+          "activities": [
+            { "name": "Thiruvalluvar Statue", "duration": 1 },
+            { "name": "Gandhi Memorial", "duration": 1 },
+            { "name": "Sunset View", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Beaches & Churches",
+          "activities": [
+            { "name": "Sothavilai Beach", "duration": 2 },
+            { "name": "Our Lady of Ransom Church", "duration": 1 },
+            { "name": "Local Market", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Traditional Fishing Village", "duration": 2 },
+            { "name": "Local Handicrafts", "duration": 2 },
+            { "name": "Seafood Dinner", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Seafood Platter", "place": "Beach restaurants", "cost": 350 },
+        { "name": "Fish Curry", "place": "Local eateries", "cost": 200 },
+        { "name": "Banana Chips", "place": "Street vendors", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Beach Road" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "East Car Street" }],
+        "luxury": [{ "name": "Beach Resorts", "price": null, "area": "Kovalam Road" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+        "mahabalipuram": {
+      "name": "Mahabalipuram",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Shore Temple Complex",
+          "activities": [
+            { "name": "Shore Temple", "duration": 2 },
+            { "name": "Pancha Rathas", "duration": 1 },
+            { "name": "Arjuna's Penance", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Cave Temples",
+          "activities": [
+            { "name": "Krishna's Butterball", "duration": 1 },
+            { "name": "Varaha Cave Temple", "duration": 1 },
+            { "name": "Tiger Cave", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Beach & Local",
+          "activities": [
+            { "name": "Mahabalipuram Beach", "duration": 2 },
+            { "name": "Light House", "duration": 1 },
+            { "name": "Stone Carving Workshops", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Heritage Walk",
+          "activities": [
+            { "name": "Descent of the Ganges", "duration": 1 },
+            { "name": "Mahabalipuram Dance Festival", "duration": 2 },
+            { "name": "Shopping for Sculptures", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Seafood Platter", "place": "Beach restaurants", "cost": 400 },
+        { "name": "Chettinad Chicken", "place": "Local eateries", "cost": 300 },
+        { "name": "Filter Coffee", "place": "Local cafes", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "East Raja Street" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Beach Road" }],
+        "luxury": [{ "name": "Beach Resorts", "price": null, "area": "Covelong Road" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "hampi": {
+      "name": "Hampi",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Royal Center",
+          "activities": [
+            { "name": "Virupaksha Temple", "duration": 2 },
+            { "name": "Hampi Bazaar", "duration": 1 },
+            { "name": "Monolithic Bull", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Vittala Temple Complex",
+          "activities": [
+            { "name": "Vittala Temple", "duration": 2 },
+            { "name": "Stone Chariot", "duration": 1 },
+            { "name": "Musical Pillars", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Queen's Bath & More",
+          "activities": [
+            { "name": "Queen's Bath", "duration": 1 },
+            { "name": "Lotus Mahal", "duration": 1 },
+            { "name": "Elephant Stables", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Sunrise & Coracle Ride",
+          "activities": [
+            { "name": "Matanga Hill Sunrise", "duration": 2 },
+            { "name": "Tungabhadra River Coracle Ride", "duration": 1 },
+            { "name": "Local Market Shopping", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Hampi Special Thali", "place": "Local restaurants", "cost": 250 },
+        { "name": "Banana Pancakes", "place": "Israeli cafes", "cost": 150 },
+        { "name": "Filter Coffee", "place": "Local shops", "cost": 40 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Hampi Bazaar" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Kamalapura" }],
+        "luxury": [{ "name": "Heritage Stays", "price": null, "area": "Virupapur Gadde" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "gokarna": {
+      "name": "Gokarna",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Temples & Main Beach",
+          "activities": [
+            { "name": "Mahabaleshwara Temple", "duration": 1 },
+            { "name": "Gokarna Beach", "duration": 2 },
+            { "name": "Koti Teertha", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Beach Hopping",
+          "activities": [
+            { "name": "Om Beach", "duration": 3 },
+            { "name": "Kudle Beach", "duration": 2 },
+            { "name": "Half Moon Beach", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Paradise Beach Trek",
+          "activities": [
+            { "name": "Paradise Beach Trek", "duration": 3 },
+            { "name": "Beach Camping", "duration": 12 },
+            { "name": "Bonfire Night", "duration": 3 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Relaxation & Shopping",
+          "activities": [
+            { "name": "Yoga on Beach", "duration": 2 },
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Seafood Dinner", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Seafood Platter", "place": "Beach shacks", "cost": 350 },
+        { "name": "Fish Curry Rice", "place": "Local eateries", "cost": 200 },
+        { "name": "Fresh Coconut Water", "place": "Beach vendors", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Beach Huts", "price": null, "area": "Om Beach" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Gokarna Town" }],
+        "luxury": [{ "name": "Beach Resorts", "price": null, "area": "Kudle Beach" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "chikmagalur": {
+      "name": "Chikmagalur",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Coffee Plantations",
+          "activities": [
+            { "name": "Coffee Plantation Tour", "duration": 3 },
+            { "name": "Coffee Tasting", "duration": 1 },
+            { "name": "Plantation Stay", "duration": 12 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Mullayanagiri Trek",
+          "activities": [
+            { "name": "Mullayanagiri Peak", "duration": 4 },
+            { "name": "Baba Budangiri", "duration": 2 },
+            { "name": "Hirekolale Lake", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Waterfalls & Wildlife",
+          "activities": [
+            { "name": "Jhari Waterfalls", "duration": 3 },
+            { "name": "Kemmangundi", "duration": 3 },
+            { "name": "Bhadra Wildlife Sanctuary", "duration": 4 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Local Market", "duration": 2 },
+            { "name": "Coffee Powder Shopping", "duration": 1 },
+            { "name": "Traditional Lunch", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Kadambuttu", "place": "Local restaurants", "cost": 150 },
+        { "name": "Coorg Pork Curry", "place": "Traditional eateries", "cost": 300 },
+        { "name": "Filter Coffee", "place": "Plantation cafes", "cost": 40 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Chikmagalur Town" }],
+        "mid": [{ "name": "Plantation Stays", "price": null, "area": "Mudigere Road" }],
+        "luxury": [{ "name": "Luxury Resorts", "price": null, "area": "Coffee Estates" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "wayanad": {
+      "name": "Wayanad",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Nature & Caves",
+          "activities": [
+            { "name": "Edakkal Caves", "duration": 3 },
+            { "name": "Soochipara Falls", "duration": 2 },
+            { "name": "Chembra Peak View", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Wildlife & Lakes",
+          "activities": [
+            { "name": "Wayanad Wildlife Sanctuary", "duration": 3 },
+            { "name": "Pookode Lake", "duration": 2 },
+            { "name": "Bamboo Rafting", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Plantations & Spices",
+          "activities": [
+            { "name": "Spice Plantation Tour", "duration": 3 },
+            { "name": "Tea Gardens", "duration": 2 },
+            { "name": "Organic Farming Visit", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Cultural Experience",
+          "activities": [
+            { "name": "Tribal Village Visit", "duration": 2 },
+            { "name": "Local Handicrafts", "duration": 2 },
+            { "name": "Traditional Dance Show", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Kerala Sadya", "place": "Local restaurants", "cost": 250 },
+        { "name": "Appam with Stew", "place": "Breakfast spots", "cost": 150 },
+        { "name": "Banana Chips", "place": "Street vendors", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Kalpetta" }],
+        "mid": [{ "name": "Resorts", "price": null, "area": "Vythiri" }],
+        "luxury": [{ "name": "Eco Resorts", "price": null, "area": "Sultan Bathery" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "araku-valley": {
+      "name": "Araku Valley",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Valley Arrival",
+          "activities": [
+            { "name": "Araku Valley Viewpoint", "duration": 2 },
+            { "name": "Local Tribal Museum", "duration": 1 },
+            { "name": "Evening Walk", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Coffee & Waterfalls",
+          "activities": [
+            { "name": "Coffee Plantation Tour", "duration": 2 },
+            { "name": "Katiki Waterfalls", "duration": 2 },
+            { "name": "Galikonda Viewpoint", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Caves & Gardens",
+          "activities": [
+            { "name": "Borra Caves", "duration": 3 },
+            { "name": "Padmapuram Gardens", "duration": 2 },
+            { "name": "Ananthagiri Hills", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Tribal Culture",
+          "activities": [
+            { "name": "Tribal Village Visit", "duration": 3 },
+            { "name": "Local Handicraft Shopping", "duration": 2 },
+            { "name": "Traditional Dance", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Bamboo Chicken", "place": "Local stalls", "cost": 200 },
+        { "name": "Tribal Food", "place": "Village eateries", "cost": 150 },
+        { "name": "Coffee", "place": "Plantation cafes", "cost": 40 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Araku Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Main Road" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Hilltops" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "yercaud": {
+      "name": "Yercaud",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Lake & Gardens",
+          "activities": [
+            { "name": "Yercaud Lake Boating", "duration": 2 },
+            { "name": "Botanical Garden", "duration": 2 },
+            { "name": "Lady's Seat", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Viewpoints & Nature",
+          "activities": [
+            { "name": "Pagoda Point", "duration": 1 },
+            { "name": "Killiyur Falls", "duration": 2 },
+            { "name": "Bear's Cave", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Coffee & Spices",
+          "activities": [
+            { "name": "Coffee Plantation Tour", "duration": 2 },
+            { "name": "Spice Garden Visit", "duration": 2 },
+            { "name": "Orange Groves", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Silk Farm Visit", "duration": 2 },
+            { "name": "Traditional Food Tasting", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Local Honey", "place": "Street vendors", "cost": 200 },
+        { "name": "Yercaud Special Coffee", "place": "Local cafes", "cost": 50 },
+        { "name": "Fresh Fruits", "place": "Orchard stalls", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Lake Road" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Yercaud Town" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Hill Stations" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "kumarakom": {
+      "name": "Kumarakom",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Backwaters Introduction",
+          "activities": [
+            { "name": "Houseboat Stay", "duration": 12 },
+            { "name": "Vembanad Lake", "duration": 2 },
+            { "name": "Backwater Cruise", "duration": 3 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Bird Sanctuary",
+          "activities": [
+            { "name": "Kumarakom Bird Sanctuary", "duration": 3 },
+            { "name": "Morning Bird Watching", "duration": 2 },
+            { "name": "Nature Photography", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Village Life",
+          "activities": [
+            { "name": "Village Walk", "duration": 2 },
+            { "name": "Coconut Farming", "duration": 1 },
+            { "name": "Local Fishing Experience", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Ayurveda & Relaxation",
+          "activities": [
+            { "name": "Ayurvedic Massage", "duration": 2 },
+            { "name": "Yoga Session", "duration": 1 },
+            { "name": "Sunset View", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Karimeen Pollichathu", "place": "Houseboat kitchen", "cost": 350 },
+        { "name": "Kerala Sadya", "place": "Local restaurants", "cost": 250 },
+        { "name": "Toddy", "place": "Local beverage", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Kumarakom Village" }],
+        "mid": [{ "name": "Houseboats", "price": null, "area": "Backwaters" }],
+        "luxury": [{ "name": "Luxury Resorts", "price": null, "area": "Lake Front" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "mount-abu": {
+      "name": "Mount Abu",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Dilwara Temples",
+          "activities": [
+            { "name": "Dilwara Jain Temples", "duration": 3 },
+            { "name": "Nakki Lake", "duration": 2 },
+            { "name": "Sunset Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Temples & Gardens",
+          "activities": [
+            { "name": "Guru Shikhar", "duration": 3 },
+            { "name": "Adhar Devi Temple", "duration": 2 },
+            { "name": "Trevor's Tank", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature & Wildlife",
+          "activities": [
+            { "name": "Mount Abu Wildlife Sanctuary", "duration": 3 },
+            { "name": "Achalgarh Fort", "duration": 2 },
+            { "name": "Honeymoon Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Rajasthani Food Tasting", "duration": 2 },
+            { "name": "Boating in Nakki Lake", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Dal Baati Churma", "place": "Local restaurants", "cost": 300 },
+        { "name": "Gatte Ki Sabzi", "place": "Traditional eateries", "cost": 250 },
+        { "name": "Malpua", "place": "Sweet shops", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Nakki Lake Road" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mount Abu Town" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Summer Festival Area" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "saputara": {
+      "name": "Saputara",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Lake & Gardens",
+          "activities": [
+            { "name": "Saputara Lake Boating", "duration": 2 },
+            { "name": "Lake Garden", "duration": 1 },
+            { "name": "Sunset Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Viewpoints & Parks",
+          "activities": [
+            { "name": "Sunrise Point", "duration": 1 },
+            { "name": "Echo Point", "duration": 1 },
+            { "name": "Step Garden", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Cultural Experience",
+          "activities": [
+            { "name": "Tribal Museum", "duration": 2 },
+            { "name": "Art & Craft Village", "duration": 2 },
+            { "name": "Rope Way Ride", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nature & Relaxation",
+          "activities": [
+            { "name": "Gira Falls", "duration": 3 },
+            { "name": "Nageshwar Mahadev Temple", "duration": 1 },
+            { "name": "Local Market Shopping", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Pithla Bhakri", "place": "Local restaurants", "cost": 150 },
+        { "name": "Zunka Bhakar", "place": "Traditional eateries", "cost": 120 },
+        { "name": "Mahua Drink", "place": "Local beverage", "cost": 80 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Saputara Market" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Lake Road" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Hill Top" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "matheran": {
+      "name": "Matheran",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Toy Train & Town",
+          "activities": [
+            { "name": "Toy Train Ride", "duration": 1 },
+            { "name": "Matheran Market", "duration": 2 },
+            { "name": "Louisa Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Viewpoints & Nature",
+          "activities": [
+            { "name": "Panorama Point", "duration": 2 },
+            { "name": "Echo Point", "duration": 1 },
+            { "name": "One Tree Hill", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Waterfalls & Lakes",
+          "activities": [
+            { "name": "Charlotte Lake", "duration": 2 },
+            { "name": "Prabal Fort", "duration": 3 },
+            { "name": "Irvine Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Horse Riding & Shopping",
+          "activities": [
+            { "name": "Horse Riding", "duration": 2 },
+            { "name": "Local Handicraft Shopping", "duration": 2 },
+            { "name": "Sunset Viewing", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Maharashtrian Thali", "place": "Local restaurants", "cost": 250 },
+        { "name": "Corn Roasting", "place": "Street vendors", "cost": 50 },
+        { "name": "Chikki", "place": "Sweet shops", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Market Road" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Matheran Town" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Upper Matheran" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "lonavala": {
+      "name": "Lonavala",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Lakes & Caves",
+          "activities": [
+            { "name": "Bushy Dam", "duration": 2 },
+            { "name": "Karla Caves", "duration": 2 },
+            { "name": "Lonavala Lake", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Waterfalls & Views",
+          "activities": [
+            { "name": "Tiger's Leap", "duration": 1 },
+            { "name": "Lion's Point", "duration": 1 },
+            { "name": "Rajmachi Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Forts & Trekking",
+          "activities": [
+            { "name": "Rajmachi Fort Trek", "duration": 5 },
+            { "name": "Duke's Nose", "duration": 2 },
+            { "name": "Bhushi Dam Waterfall", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Chikki & Relaxation",
+          "activities": [
+            { "name": "Chikki Shopping", "duration": 1 },
+            { "name": "Local Market", "duration": 2 },
+            { "name": "Sunset Photography", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Chikki", "place": "Local shops", "cost": 150 },
+        { "name": "Vada Pav", "place": "Street stalls", "cost": 30 },
+        { "name": "Pav Bhaji", "place": "Local restaurants", "cost": 120 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Lonavala Station" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mumbai-Pune Highway" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Hill Stations" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "khandala": {
+      "name": "Khandala",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Viewpoints & Nature",
+          "activities": [
+            { "name": "Kune Waterfalls", "duration": 2 },
+            { "name": "Sunset Point", "duration": 1 },
+            { "name": "Bhimashankar Temple View", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Adventure Activities",
+          "activities": [
+            { "name": "Trekking in Hills", "duration": 3 },
+            { "name": "Rock Climbing", "duration": 2 },
+            { "name": "Nature Walk", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Attractions",
+          "activities": [
+            { "name": "Rajmachi Point", "duration": 1 },
+            { "name": "Shooting Point", "duration": 1 },
+            { "name": "Valley View", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Relaxation Day",
+          "activities": [
+            { "name": "Local Food Tasting", "duration": 2 },
+            { "name": "Photography Tour", "duration": 2 },
+            { "name": "Souvenir Shopping", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Maharashtrian Thali", "place": "Local restaurants", "cost": 250 },
+        { "name": "Corn Roasting", "place": "Street vendors", "cost": 40 },
+        { "name": "Tea with Pakoras", "place": "Hill stalls", "cost": 80 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Khandala Station" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mumbai-Pune Highway" }],
+        "luxury": [{ "name": "Hill Resorts", "price": null, "area": "Viewpoints" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "mahabaleshwar": {
+      "name": "Mahabaleshwar",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Viewpoints & Lake",
+          "activities": [
+            { "name": "Venna Lake Boating", "duration": 2 },
+            { "name": "Arthur's Seat", "duration": 1 },
+            { "name": "Kate's Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Waterfalls & Forts",
+          "activities": [
+            { "name": "Lingmala Waterfall", "duration": 2 },
+            { "name": "Pratapgarh Fort", "duration": 3 },
+            { "name": "Elephant's Head Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Strawberry Farms",
+          "activities": [
+            { "name": "Strawberry Farm Visit", "duration": 2 },
+            { "name": "Strawberry Picking", "duration": 1 },
+            { "name": "Mapro Garden", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Shopping & Food",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Strawberry Products", "duration": 1 },
+            { "name": "Local Food Tour", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Strawberry with Cream", "place": "Local stalls", "cost": 100 },
+        { "name": "Corn Patties", "place": "Street food", "cost": 50 },
+        { "name": "Strawberry Wine", "place": "Mapro", "cost": 300 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Mahabaleshwar Market" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Main Road" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Hill Stations" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "panchgani": {
+      "name": "Panchgani",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Table Land & Views",
+          "activities": [
+            { "name": "Table Land", "duration": 2 },
+            { "name": "Sydney Point", "duration": 1 },
+            { "name": "Parsi Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Adventure & Nature",
+          "activities": [
+            { "name": "Paragliding", "duration": 1 },
+            { "name": "Devil's Kitchen", "duration": 1 },
+            { "name": "Harrison's Folly", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Attractions",
+          "activities": [
+            { "name": "Rajpuri Caves", "duration": 2 },
+            { "name": "Kamalgad Fort", "duration": 3 },
+            { "name": "Strawberry Farms", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Relaxation Day",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Food Tasting", "duration": 2 },
+            { "name": "Photography", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Strawberry Products", "place": "Local shops", "cost": 200 },
+        { "name": "Homemade Jam", "place": "Farm outlets", "cost": 150 },
+        { "name": "Corn Roasting", "place": "Street vendors", "cost": 40 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Panchgani Market" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Table Land Road" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Hilltops" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "alibaug": {
+      "name": "Alibaug",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Beaches & Fort",
+          "activities": [
+            { "name": "Alibaug Beach", "duration": 2 },
+            { "name": "Kolaba Fort", "duration": 2 },
+            { "name": "Kashid Beach", "duration": 3 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Murud-Janjira Day Trip",
+          "activities": [
+            { "name": "Murud-Janjira Fort", "duration": 4 },
+            { "name": "Murud Beach", "duration": 2 },
+            { "name": "Dolphin Watching", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Temples & Gardens",
+          "activities": [
+            { "name": "Kanakeshwar Temple", "duration": 3 },
+            { "name": "Vrindavan Garden", "duration": 1 },
+            { "name": "Kihim Beach", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Water Sports & Relax",
+          "activities": [
+            { "name": "Water Sports", "duration": 3 },
+            { "name": "Local Seafood Lunch", "duration": 2 },
+            { "name": "Sunset at Beach", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Seafood Platter", "place": "Beach restaurants", "cost": 400 },
+        { "name": "Pomfret Fry", "place": "Local eateries", "cost": 300 },
+        { "name": "Kokum Sharbat", "place": "Local beverage", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Alibaug Town" }],
+        "mid": [{ "name": "Beach Resorts", "price": null, "area": "Kashid" }],
+        "luxury": [{ "name": "Luxury Villas", "price": null, "area": "Mandwa" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "daman": {
+      "name": "Daman",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Portuguese Heritage",
+          "activities": [
+            { "name": "Daman Fort", "duration": 2 },
+            { "name": "Church of Bom Jesus", "duration": 1 },
+            { "name": "Portuguese Architecture", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Beaches & Sunset",
+          "activities": [
+            { "name": "Jampore Beach", "duration": 3 },
+            { "name": "Devka Beach", "duration": 2 },
+            { "name": "Sunset Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Markets",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Liquor Shopping", "duration": 1 },
+            { "name": "Street Food Tour", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Relaxation & Food",
+          "activities": [
+            { "name": "Beach Activities", "duration": 3 },
+            { "name": "Seafood Dinner", "duration": 2 },
+            { "name": "Night Walk", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Seafood Platter", "place": "Beach restaurants", "cost": 350 },
+        { "name": "Portuguese Cuisine", "place": "Heritage restaurants", "cost": 400 },
+        { "name": "Fresh Juices", "place": "Beach stalls", "cost": 80 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Devka Beach Road" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Nani Daman" }],
+        "luxury": [{ "name": "Beach Resorts", "price": null, "area": "Jampore Beach" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "diu": {
+      "name": "Diu",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Portuguese Fort & Churches",
+          "activities": [
+            { "name": "Diu Fort", "duration": 2 },
+            { "name": "St. Paul's Church", "duration": 1 },
+            { "name": "Portuguese Architecture", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Beaches & Sunset",
+          "activities": [
+            { "name": "Nagoa Beach", "duration": 3 },
+            { "name": "Ghogla Beach", "duration": 2 },
+            { "name": "Sunset Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Attractions",
+          "activities": [
+            { "name": "Gangeshwar Temple", "duration": 1 },
+            { "name": "Naida Caves", "duration": 2 },
+            { "name": "Diu Museum", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Water Sports & Shopping",
+          "activities": [
+            { "name": "Water Sports", "duration": 3 },
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Seafood Dinner", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Seafood Platter", "place": "Beach restaurants", "cost": 350 },
+        { "name": "Portuguese Dishes", "place": "Heritage restaurants", "cost": 400 },
+        { "name": "Fresh Coconut Water", "place": "Beach vendors", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Diu Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Nagoa Beach" }],
+        "luxury": [{ "name": "Beach Resorts", "price": null, "area": "Ghogla Beach" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "khajuraho": {
+      "name": "Khajuraho",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Western Group Temples",
+          "activities": [
+            { "name": "Kandariya Mahadev Temple", "duration": 2 },
+            { "name": "Lakshmana Temple", "duration": 1 },
+            { "name": "Light & Sound Show", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Eastern & Southern Groups",
+          "activities": [
+            { "name": "Parsvanath Temple", "duration": 1 },
+            { "name": "Duladeo Temple", "duration": 1 },
+            { "name": "Chausath Yogini Temple", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Museums & Local",
+          "activities": [
+            { "name": "Archaeological Museum", "duration": 2 },
+            { "name": "Raneh Falls", "duration": 3 },
+            { "name": "Local Market", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Panna National Park",
+          "activities": [
+            { "name": "Panna National Park Safari", "duration": 4 },
+            { "name": "Pandav Falls", "duration": 2 },
+            { "name": "Diamond Mines", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Dal Bafla", "place": "Local restaurants", "cost": 200 },
+        { "name": "Kadhi", "place": "Traditional eateries", "cost": 150 },
+        { "name": "Lassi", "place": "Local shops", "cost": 60 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Jain Temple Road" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Khajuraho Town" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Temple Complex" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "orchha": {
+      "name": "Orchha",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Fort Complex",
+          "activities": [
+            { "name": "Orchha Fort", "duration": 3 },
+            { "name": "Jehangir Mahal", "duration": 1 },
+            { "name": "Raj Mahal", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Temples & River",
+          "activities": [
+            { "name": "Ram Raja Temple", "duration": 1 },
+            { "name": "Chaturbhuj Temple", "duration": 1 },
+            { "name": "Betwa River Riverside", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Cenotaphs & Sunset",
+          "activities": [
+            { "name": "Cenotaphs (Chhatris)", "duration": 2 },
+            { "name": "Sunset at River", "duration": 1 },
+            { "name": "Light & Sound Show", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Village Visit", "duration": 2 },
+            { "name": "Handicraft Shopping", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Poha", "place": "Local stalls", "cost": 50 },
+        { "name": "Dal Bafla", "place": "Traditional eateries", "cost": 180 },
+        { "name": "Lassi", "place": "Local shops", "cost": 60 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Orchha Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Fort Road" }],
+        "luxury": [{ "name": "Heritage Stays", "price": null, "area": "Riverside" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "mandu": {
+      "name": "Mandu",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Fort & Palaces",
+          "activities": [
+            { "name": "Jahaz Mahal", "duration": 2 },
+            { "name": "Hindola Mahal", "duration": 1 },
+            { "name": "Rupmati's Pavilion", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Tombs & Gates",
+          "activities": [
+            { "name": "Hoshang Shah's Tomb", "duration": 1 },
+            { "name": "Delhi Gate", "duration": 1 },
+            { "name": "Baz Bahadur's Palace", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Water Bodies & Views",
+          "activities": [
+            { "name": "Rewa Kund", "duration": 1 },
+            { "name": "Nilkanth Palace", "duration": 1 },
+            { "name": "Sunset Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Exploration",
+          "activities": [
+            { "name": "Local Market", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 },
+            { "name": "Photography Tour", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Malpua", "place": "Local stalls", "cost": 80 },
+        { "name": "Dal Bafla", "place": "Traditional eateries", "cost": 180 },
+        { "name": "Lassi", "place": "Local shops", "cost": 60 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Mandu Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Fort Area" }],
+        "luxury": [{ "name": "MPTDC Resort", "price": null, "area": "Hilltop" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "pachmarhi": {
+      "name": "Pachmarhi",
+      "region": "central",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Waterfalls & Caves",
+          "activities": [
+            { "name": "Bee Falls", "duration": 2 },
+            { "name": "Jata Shankar Caves", "duration": 2 },
+            { "name": "Pandava Caves", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Viewpoints & Nature",
+          "activities": [
+            { "name": "Dhoopgarh Sunset", "duration": 2 },
+            { "name": "Priyadarshini Point", "duration": 1 },
+            { "name": "Handi Khoh", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Lakes & Parks",
+          "activities": [
+            { "name": "Apsara Vihar", "duration": 2 },
+            { "name": "Rajat Prapat", "duration": 3 },
+            { "name": "Catholic Church", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 },
+            { "name": "Nature Walk", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Bhutte Ka Kees", "place": "Local stalls", "cost": 80 },
+        { "name": "Sabudana Khichdi", "place": "Traditional eateries", "cost": 100 },
+        { "name": "Poha", "place": "Breakfast spots", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Pachmarhi Market" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Main Road" }],
+        "luxury": [{ "name": "MPTDC Resort", "price": null, "area": "Hill Station" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "chikhaldara": {
+      "name": "Chikhaldara",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Viewpoints & Wildlife",
+          "activities": [
+            { "name": "Sunset Point", "duration": 1 },
+            { "name": "Gavilgad Fort", "duration": 2 },
+            { "name": "Melghat Tiger Reserve", "duration": 3 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Waterfalls & Nature",
+          "activities": [
+            { "name": "Bhimgad Fort", "duration": 2 },
+            { "name": "Devi Point", "duration": 1 },
+            { "name": "Kalapani Dam", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Attractions",
+          "activities": [
+            { "name": "Mozari Point", "duration": 1 },
+            { "name": "Shambhu Mahadev Temple", "duration": 1 },
+            { "name": "Coffee Plantations", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Relaxation & Shopping",
+          "activities": [
+            { "name": "Local Market", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 },
+            { "name": "Photography", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Puran Poli", "place": "Local stalls", "cost": 60 },
+        { "name": "Bhakarwadi", "place": "Snack shops", "cost": 100 },
+        { "name": "Tea", "place": "Local shops", "cost": 20 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Chikhaldara Market" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Main Road" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Hilltop" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "darjeeling": {
+      "name": "Darjeeling",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Toy Train & Mall",
+          "activities": [
+            { "name": "Toy Train Ride", "duration": 1 },
+            { "name": "Darjeeling Mall", "duration": 2 },
+            { "name": "Observatory Hill", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Tiger Hill & Tea",
+          "activities": [
+            { "name": "Tiger Hill Sunrise", "duration": 2 },
+            { "name": "Tea Garden Tour", "duration": 2 },
+            { "name": "Tea Tasting", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Monasteries & Zoo",
+          "activities": [
+            { "name": "Ghoom Monastery", "duration": 1 },
+            { "name": "Padmaja Naidu Zoo", "duration": 2 },
+            { "name": "Himalayan Mountaineering Institute", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Ropeway Ride", "duration": 1 },
+            { "name": "Food Tour", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Momos", "place": "Local stalls", "cost": 80 },
+        { "name": "Thukpa", "place": "Tibetan eateries", "cost": 150 },
+        { "name": "Darjeeling Tea", "place": "Tea houses", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Chowrasta" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mall Road" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Observatory Hill" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "gangtok": {
+      "name": "Gangtok",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "City Tour",
+          "activities": [
+            { "name": "MG Marg", "duration": 2 },
+            { "name": "Enchey Monastery", "duration": 1 },
+            { "name": "Flower Show", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Monasteries & Views",
+          "activities": [
+            { "name": "Rumtek Monastery", "duration": 2 },
+            { "name": "Tashi Viewpoint", "duration": 1 },
+            { "name": "Ganesh Tok", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Day Excursions",
+          "activities": [
+            { "name": "Tsomgo Lake", "duration": 4 },
+            { "name": "Baba Mandir", "duration": 1 },
+            { "name": "Nathula Pass", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Cable Car Ride", "duration": 1 },
+            { "name": "Traditional Food", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Momos", "place": "Local stalls", "cost": 80 },
+        { "name": "Thukpa", "place": "Tibetan eateries", "cost": 150 },
+        { "name": "Sikkimese Beer", "place": "Local bars", "cost": 200 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Deorali" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "MG Marg" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Tadong" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "shillong": {
+      "name": "Shillong",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "City Tour",
+          "activities": [
+            { "name": "Police Bazaar", "duration": 2 },
+            { "name": "Don Bosco Museum", "duration": 2 },
+            { "name": "Cathedral of Mary", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Waterfalls & Lakes",
+          "activities": [
+            { "name": "Elephant Falls", "duration": 2 },
+            { "name": "Ward's Lake", "duration": 1 },
+            { "name": "Spread Eagle Falls", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Viewpoints & Parks",
+          "activities": [
+            { "name": "Shillong Peak", "duration": 2 },
+            { "name": "Lady Hydari Park", "duration": 1 },
+            { "name": "Botanical Garden", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 },
+            { "name": "Music Scene", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Jadoh", "place": "Local restaurants", "cost": 200 },
+        { "name": "Momos", "place": "Street stalls", "cost": 80 },
+        { "name": "Tea", "place": "Local shops", "cost": 30 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Police Bazaar" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Laitumkhrah" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Upper Shillong" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+  
+    "kohima": {
+      "name": "Kohima",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "War Cemetery & Museum",
+          "activities": [
+            { "name": "Kohima War Cemetery", "duration": 2 },
+            { "name": "State Museum", "duration": 1 },
+            { "name": "Catholic Cathedral", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Local Markets",
+          "activities": [
+            { "name": "Kohima Local Market", "duration": 2 },
+            { "name": "Handicraft Shopping", "duration": 2 },
+            { "name": "Traditional Naga Shawls", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Village Experience",
+          "activities": [
+            { "name": "Kisama Heritage Village", "duration": 3 },
+            { "name": "Naga Heritage Park", "duration": 2 },
+            { "name": "Hornbill Festival Site", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nature & Views",
+          "activities": [
+            { "name": "Dzukou Valley Trek", "duration": 5 },
+            { "name": "Japfu Peak", "duration": 4 },
+            { "name": "Local Food Tasting", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Pork with Bamboo Shoot", "place": "Local restaurants", "cost": 300 },
+        { "name": "Smoked Meat", "place": "Traditional eateries", "cost": 250 },
+        { "name": "Rice Beer", "place": "Local beverage", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Kohima Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Midland" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Jotsoma" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "imphal": {
+      "name": "Imphal",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Historical Sites",
+          "activities": [
+            { "name": "Kangla Fort", "duration": 2 },
+            { "name": "Shree Govindajee Temple", "duration": 1 },
+            { "name": "Sana Konung", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "War Memorials",
+          "activities": [
+            { "name": "India Peace Memorial", "duration": 2 },
+            { "name": "Red Hill", "duration": 1 },
+            { "name": "Second World War Cemetery", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Lakes & Nature",
+          "activities": [
+            { "name": "Loktak Lake", "duration": 3 },
+            { "name": "Keibul Lamjao National Park", "duration": 3 },
+            { "name": "Sendra Island", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Cultural Experience",
+          "activities": [
+            { "name": "Ima Market", "duration": 2 },
+            { "name": "Manipuri Dance Show", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Eromba", "place": "Local restaurants", "cost": 200 },
+        { "name": "Singju", "place": "Traditional salads", "cost": 150 },
+        { "name": "Chak-Hao Kheer", "place": "Sweet shops", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Imphal Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Thangal Bazaar" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Loktak Lake" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "puri": {
+      "name": "Puri",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Jagannath Temple",
+          "activities": [
+            { "name": "Jagannath Temple Darshan", "duration": 3 },
+            { "name": "Temple Kitchen Visit", "duration": 1 },
+            { "name": "Evening Aarti", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Beach & Sunset",
+          "activities": [
+            { "name": "Puri Beach", "duration": 3 },
+            { "name": "Swargadwar", "duration": 1 },
+            { "name": "Beach Activities", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Markets",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Applique Work Shopping", "duration": 2 },
+            { "name": "Sea Shell Products", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Day Excursion",
+          "activities": [
+            { "name": "Chilika Lake Day Trip", "duration": 5 },
+            { "name": "Dolphin Watching", "duration": 2 },
+            { "name": "Bird Watching", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Mahaprasad", "place": "Temple food", "cost": 100 },
+        { "name": "Seafood Platter", "place": "Beach restaurants", "cost": 350 },
+        { "name": "Chenna Poda", "place": "Sweet shops", "cost": 150 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Swargadwar" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Marine Drive" }],
+        "luxury": [{ "name": "Beach Resorts", "price": null, "area": "Puri Beach" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "konark": {
+      "name": "Konark",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Sun Temple",
+          "activities": [
+            { "name": "Konark Sun Temple", "duration": 3 },
+            { "name": "Temple Museum", "duration": 1 },
+            { "name": "Light & Sound Show", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Beach & Sunset",
+          "activities": [
+            { "name": "Chandrabhaga Beach", "duration": 2 },
+            { "name": "Sunset View", "duration": 1 },
+            { "name": "Beach Walk", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Exploration",
+          "activities": [
+            { "name": "Local Market", "duration": 2 },
+            { "name": "Stone Carving Workshops", "duration": 2 },
+            { "name": "Traditional Dance", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Day Trip",
+          "activities": [
+            { "name": "Ramachandi Temple", "duration": 2 },
+            { "name": "Kuruma Buddhist Site", "duration": 2 },
+            { "name": "Local Food Tour", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Seafood Platter", "place": "Beach restaurants", "cost": 300 },
+        { "name": "Pakhala Bhata", "place": "Local eateries", "cost": 150 },
+        { "name": "Chhena Poda", "place": "Sweet shops", "cost": 120 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Konark Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Sun Temple Road" }],
+        "luxury": [{ "name": "Beach Resorts", "price": null, "area": "Chandrabhaga" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "sundarbans": {
+      "name": "Sundarbans",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Boat Safari Start",
+          "activities": [
+            { "name": "Boat Journey Start", "duration": 4 },
+            { "name": "River Safari", "duration": 3 },
+            { "name": "Sajnekhali Watch Tower", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Wildlife Spotting",
+          "activities": [
+            { "name": "Morning Safari", "duration": 3 },
+            { "name": "Bird Watching", "duration": 2 },
+            { "name": "Crocodile Spotting", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Mangrove Exploration",
+          "activities": [
+            { "name": "Mangrove Forest Walk", "duration": 3 },
+            { "name": "Local Village Visit", "duration": 2 },
+            { "name": "Sunset Cruise", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Cultural Experience",
+          "activities": [
+            { "name": "Honey Collection Demo", "duration": 1 },
+            { "name": "Traditional Fishing", "duration": 2 },
+            { "name": "Local Food Tasting", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Fresh Fish Curry", "place": "Boat kitchen", "cost": 250 },
+        { "name": "Crab Masala", "place": "Local preparations", "cost": 300 },
+        { "name": "Prawn Malai Curry", "place": "Traditional style", "cost": 350 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Boat Stays", "price": null, "area": "On Water" }],
+        "mid": [{ "name": "Eco Huts", "price": null, "area": "Forest Fringe" }],
+        "luxury": [{ "name": "Resort Stays", "price": null, "area": "Gosaba" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "kalimpong": {
+      "name": "Kalimpong",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Town Exploration",
+          "activities": [
+            { "name": "Deolo Hill", "duration": 2 },
+            { "name": "Kalimpong Market", "duration": 2 },
+            { "name": "Durpin Monastery", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Flowers & Gardens",
+          "activities": [
+            { "name": "Flower Nurseries", "duration": 2 },
+            { "name": "Cactus Nursery", "duration": 1 },
+            { "name": "Morgan House", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Monasteries & Churches",
+          "activities": [
+            { "name": "Thongsa Gompa", "duration": 1 },
+            { "name": "St. Teresa Church", "duration": 1 },
+            { "name": "Zang Dhok Palri Phodang", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Cheese Factory", "duration": 1 },
+            { "name": "Handicraft Shopping", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Momos", "place": "Local stalls", "cost": 80 },
+        { "name": "Thukpa", "place": "Tibetan eateries", "cost": 150 },
+        { "name": "Local Cheese", "place": "Cheese shops", "cost": 200 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Kalimpong Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Rinkingpong Road" }],
+        "luxury": [{ "name": "Heritage Hotels", "price": null, "area": "Deolo Hill" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "kurseong": {
+      "name": "Kurseong",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Toy Train Experience",
+          "activities": [
+            { "name": "Toy Train Ride", "duration": 1 },
+            { "name": "Kurseong Market", "duration": 2 },
+            { "name": "Eagle's Crag", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Tea Gardens",
+          "activities": [
+            { "name": "Tea Garden Tour", "duration": 2 },
+            { "name": "Tea Tasting", "duration": 1 },
+            { "name": "Tea Factory Visit", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature & Views",
+          "activities": [
+            { "name": "Dow Hill Park", "duration": 2 },
+            { "name": "Forest Walk", "duration": 2 },
+            { "name": "Viewpoints", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Local Handicrafts", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 },
+            { "name": "Photography", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Momos", "place": "Local stalls", "cost": 80 },
+        { "name": "Tea", "place": "Tea gardens", "cost": 30 },
+        { "name": "Noodles", "place": "Local eateries", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Kurseong Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Hill Cart Road" }],
+        "luxury": [{ "name": "Tea Garden Bungalows", "price": null, "area": "Tea Estates" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "mirik": {
+      "name": "Mirik",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Lake & Gardens",
+          "activities": [
+            { "name": "Sumendu Lake Boating", "duration": 2 },
+            { "name": "Lake Garden", "duration": 1 },
+            { "name": "Bokar Monastery", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Tea Gardens",
+          "activities": [
+            { "name": "Tea Garden Walk", "duration": 2 },
+            { "name": "Tea Tasting", "duration": 1 },
+            { "name": "Orange Orchards", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature & Views",
+          "activities": [
+            { "name": "Rameetay Dara", "duration": 2 },
+            { "name": "Deosi Dara", "duration": 1 },
+            { "name": "Sunrise Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Relaxation",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 },
+            { "name": "Photography", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Momos", "place": "Local stalls", "cost": 80 },
+        { "name": "Thukpa", "place": "Tibetan eateries", "cost": 150 },
+        { "name": "Tea", "place": "Local shops", "cost": 30 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Mirik Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Lake Area" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Hilltops" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "ravangla": {
+      "name": "Ravangla",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Buddha Park",
+          "activities": [
+            { "name": "Buddha Park", "duration": 2 },
+            { "name": "Statue Viewing", "duration": 1 },
+            { "name": "Garden Walk", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Monasteries",
+          "activities": [
+            { "name": "Ralong Monastery", "duration": 2 },
+            { "name": "Boned Monastery", "duration": 1 },
+            { "name": "Local Temples", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature & Views",
+          "activities": [
+            { "name": "Maenam Hill Trek", "duration": 4 },
+            { "name": "Tendong Hill", "duration": 3 },
+            { "name": "Bird Watching", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Local Market", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 },
+            { "name": "Handicraft Shopping", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Momos", "place": "Local stalls", "cost": 80 },
+        { "name": "Thukpa", "place": "Tibetan eateries", "cost": 150 },
+        { "name": "Sikkimese Dishes", "place": "Local restaurants", "cost": 200 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Ravangla Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Buddha Park Road" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Hill Stations" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "pelling": {
+      "name": "Pelling",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Kanchenjunga Views",
+          "activities": [
+            { "name": "Kanchenjunga Falls", "duration": 2 },
+            { "name": "Sky Walk", "duration": 1 },
+            { "name": "Sunrise View", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Monasteries",
+          "activities": [
+            { "name": "Pemayangtse Monastery", "duration": 2 },
+            { "name": "Sangachoeling Monastery", "duration": 2 },
+            { "name": "Rabdentse Ruins", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Lakes & Gardens",
+          "activities": [
+            { "name": "Khecheopalri Lake", "duration": 3 },
+            { "name": "Rimbi Waterfalls", "duration": 2 },
+            { "name": "Rock Garden", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Market", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 },
+            { "name": "Photography Tour", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Momos", "place": "Local stalls", "cost": 80 },
+        { "name": "Thukpa", "place": "Tibetan eateries", "cost": 150 },
+        { "name": "Sikkimese Beer", "place": "Local bars", "cost": 200 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Pelling Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Upper Pelling" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Kanchenjunga View" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "lachung": {
+      "name": "Lachung",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Valley Arrival",
+          "activities": [
+            { "name": "Lachung Monastery", "duration": 1 },
+            { "name": "Local Village Walk", "duration": 2 },
+            { "name": "Riverside", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Yumthang Valley",
+          "activities": [
+            { "name": "Yumthang Valley Day Trip", "duration": 5 },
+            { "name": "Flower Viewing", "duration": 2 },
+            { "name": "Hot Springs", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Waterfalls & Nature",
+          "activities": [
+            { "name": "Bhim Nala Falls", "duration": 2 },
+            { "name": "Singhik Viewpoint", "duration": 1 },
+            { "name": "Nature Photography", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Traditional Houses Visit", "duration": 2 },
+            { "name": "Local Food Tasting", "duration": 2 },
+            { "name": "Handicraft Viewing", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Thukpa", "place": "Local eateries", "cost": 150 },
+        { "name": "Momos", "place": "Home stays", "cost": 100 },
+        { "name": "Butter Tea", "place": "Traditional", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Lachung Village" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Main Road" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Riverside" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "lachen": {
+      "name": "Lachen",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Village Arrival",
+          "activities": [
+            { "name": "Lachen Monastery", "duration": 1 },
+            { "name": "Village Walk", "duration": 2 },
+            { "name": "Local Houses", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Gurudongmar Lake",
+          "activities": [
+            { "name": "Gurudongmar Lake Day Trip", "duration": 6 },
+            { "name": "High Altitude Experience", "duration": 2 },
+            { "name": "Photography", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature Exploration",
+          "activities": [
+            { "name": "Chopta Valley", "duration": 3 },
+            { "name": "Thangu Valley", "duration": 3 },
+            { "name": "Mountain Views", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Traditional Farming", "duration": 2 },
+            { "name": "Local Food", "duration": 2 },
+            { "name": "Cultural Interaction", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Thukpa", "place": "Homestays", "cost": 150 },
+        { "name": "Local Bread", "place": "Traditional bakeries", "cost": 80 },
+        { "name": "Butter Tea", "place": "Local homes", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Lachen Village" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Main Area" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Valley View" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "ziro": {
+      "name": "Ziro",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Valley Arrival",
+          "activities": [
+            { "name": "Ziro Valley View", "duration": 2 },
+            { "name": "Local Village Walk", "duration": 2 },
+            { "name": "Sunset Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Apatani Culture",
+          "activities": [
+            { "name": "Apatani Village Tour", "duration": 3 },
+            { "name": "Traditional Houses", "duration": 2 },
+            { "name": "Cultural Museum", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature & Wildlife",
+          "activities": [
+            { "name": "Talley Valley Wildlife Sanctuary", "duration": 4 },
+            { "name": "Kile Pakho", "duration": 2 },
+            { "name": "Bamboo Gardens", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Market", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 },
+            { "name": "Handicraft Shopping", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Apong (Rice Beer)", "place": "Local homes", "cost": 100 },
+        { "name": "Bamboo Shoot Dishes", "place": "Traditional eateries", "cost": 200 },
+        { "name": "Smoked Meat", "place": "Local restaurants", "cost": 250 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Ziro Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Old Ziro" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Valley View" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "majuli": {
+      "name": "Majuli",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Island Arrival",
+          "activities": [
+            { "name": "Ferry Ride to Island", "duration": 1 },
+            { "name": "Island Tour", "duration": 3 },
+            { "name": "Sunset at River", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Satras (Monasteries)",
+          "activities": [
+            { "name": "Kamalabari Satra", "duration": 2 },
+            { "name": "Auniati Satra", "duration": 2 },
+            { "name": "Dakhinpat Satra", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Mask Making Workshop", "duration": 2 },
+            { "name": "Traditional Dance Show", "duration": 2 },
+            { "name": "Pottery Making", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nature & Village Life",
+          "activities": [
+            { "name": "Bird Watching", "duration": 2 },
+            { "name": "Mishing Village Visit", "duration": 2 },
+            { "name": "Local Food Experience", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Rice Beer", "place": "Local homes", "cost": 80 },
+        { "name": "Fish Curry", "place": "Traditional eateries", "cost": 200 },
+        { "name": "Local Vegetables", "place": "Village food", "cost": 150 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Mishing Villages" }],
+        "mid": [{ "name": "Guesthouses", "price": null, "area": "Kamalabari" }],
+        "luxury": [{ "name": "Eco Resorts", "price": null, "area": "River Front" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "kaziranga": {
+      "name": "Kaziranga",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Wildlife Safari",
+          "activities": [
+            { "name": "Morning Elephant Safari", "duration": 2 },
+            { "name": "Jeep Safari", "duration": 3 },
+            { "name": "Visitor Center", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "More Safari Zones",
+          "activities": [
+            { "name": "Central Range Safari", "duration": 3 },
+            { "name": "Western Range Safari", "duration": 3 },
+            { "name": "Bird Watching", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Tea Garden Visit", "duration": 2 },
+            { "name": "Local Village Tour", "duration": 2 },
+            { "name": "Traditional Dance", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nature & Relaxation",
+          "activities": [
+            { "name": "River Cruise", "duration": 2 },
+            { "name": "Photography Tour", "duration": 2 },
+            { "name": "Local Food Tasting", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Assamese Thali", "place": "Local restaurants", "cost": 300 },
+        { "name": "Fish Curry", "place": "Traditional eateries", "cost": 250 },
+        { "name": "Tea", "place": "Tea gardens", "cost": 30 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Kohora" }],
+        "mid": [{ "name": "Resorts", "price": null, "area": "Park Entry Zone" }],
+        "luxury": [{ "name": "Wildlife Lodges", "price": null, "area": "Forest Fringe" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "manas": {
+      "name": "Manas",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Wildlife Safari",
+          "activities": [
+            { "name": "Jeep Safari", "duration": 3 },
+            { "name": "Elephant Safari", "duration": 2 },
+            { "name": "Park Museum", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "River & Nature",
+          "activities": [
+            { "name": "Manas River Cruise", "duration": 2 },
+            { "name": "Bird Watching", "duration": 2 },
+            { "name": "Nature Walk", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Bodo Village Visit", "duration": 2 },
+            { "name": "Traditional Weaving", "duration": 2 },
+            { "name": "Cultural Show", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "More Exploration",
+          "activities": [
+            { "name": "Additional Safari", "duration": 3 },
+            { "name": "Photography", "duration": 2 },
+            { "name": "Local Food", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Bodo Cuisine", "place": "Local eateries", "cost": 250 },
+        { "name": "Fish Dishes", "place": "Traditional restaurants", "cost": 200 },
+        { "name": "Rice Beer", "place": "Local beverage", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Bansbari" }],
+        "mid": [{ "name": "Resorts", "price": null, "area": "Park Entry" }],
+        "luxury": [{ "name": "Wildlife Lodges", "price": null, "area": "Forest Area" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "cherrapunji": {
+      "name": "Cherrapunji",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Waterfalls",
+          "activities": [
+            { "name": "Nohkalikai Falls", "duration": 2 },
+            { "name": "Seven Sisters Falls", "duration": 2 },
+            { "name": "Dainthlen Falls", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Caves & Bridges",
+          "activities": [
+            { "name": "Mawsmai Cave", "duration": 2 },
+            { "name": "Living Root Bridges", "duration": 3 },
+            { "name": "Double Decker Bridge", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Viewpoints",
+          "activities": [
+            { "name": "Eco Park", "duration": 2 },
+            { "name": "Mawkdok Viewpoint", "duration": 1 },
+            { "name": "Sunset Point", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Khasi Village Visit", "duration": 2 },
+            { "name": "Local Market", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Jadoh", "place": "Local restaurants", "cost": 200 },
+        { "name": "Pork Dishes", "place": "Traditional eateries", "cost": 250 },
+        { "name": "Tea", "place": "Local shops", "cost": 30 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Cherrapunji Town" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Mawkdok" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Hilltops" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "mawlynnong": {
+      "name": "Mawlynnong",
+      "region": "east",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Cleanest Village",
+          "activities": [
+            { "name": "Village Walk", "duration": 2 },
+            { "name": "Bamboo Tree Houses", "duration": 1 },
+            { "name": "Cleanliness Tour", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Living Root Bridges",
+          "activities": [
+            { "name": "Riwai Root Bridge", "duration": 2 },
+            { "name": "Bridge Trek", "duration": 2 },
+            { "name": "Nature Photography", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Viewpoints & Nature",
+          "activities": [
+            { "name": "Sky View Point", "duration": 1 },
+            { "name": "Balancing Rock", "duration": 1 },
+            { "name": "Waterfalls", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Traditional Farming", "duration": 2 },
+            { "name": "Local Food Tasting", "duration": 2 },
+            { "name": "Handicraft Shopping", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Khasi Food", "place": "Local homes", "cost": 200 },
+        { "name": "Pork Dishes", "place": "Traditional eateries", "cost": 250 },
+        { "name": "Local Honey", "place": "Village shops", "cost": 150 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Mawlynnong Village" }],
+        "mid": [{ "name": "Guesthouses", "price": null, "area": "Village Center" }],
+        "luxury": [{ "name": "Eco Huts", "price": null, "area": "Outskirts" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+        }
+    },
+
+    "leh-ladakh": {
+      "name": "Leh-Ladakh",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Leh Acclimatization",
+          "activities": [
+            { "name": "Leh Palace Visit", "duration": 2 },
+            { "name": "Shanti Stupa", "duration": 1 },
+            { "name": "Local Market Exploration", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Monasteries & Lakes",
+          "activities": [
+            { "name": "Thiksey Monastery", "duration": 2 },
+            { "name": "Hemis Monastery", "duration": 2 },
+            { "name": "Shey Palace", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Pangong Lake",
+          "activities": [
+            { "name": "Pangong Lake Day Trip", "duration": 8 },
+            { "name": "Chang La Pass", "duration": 2 },
+            { "name": "Lakeside Camp Stay", "duration": 12 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Nubra Valley",
+          "activities": [
+            { "name": "Khardung La Pass", "duration": 2 },
+            { "name": "Nubra Valley Sand Dunes", "duration": 3 },
+            { "name": "Double Humped Camel Ride", "duration": 1 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Thukpa", "place": "Local Ladakhi restaurants", "cost": 180 },
+        { "name": "Momos", "place": "Street stalls", "cost": 100 },
+        { "name": "Butter Tea", "place": "Traditional homes", "cost": 50 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Leh Market" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Fort Road" }],
+        "luxury": [{ "name": "Boutique Hotels", "price": null, "area": "Old Leh" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "srinagar": {
+      "name": "Srinagar",
+      "region": "north",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Dal Lake Experience",
+          "activities": [
+            { "name": "Shikara Ride on Dal Lake", "duration": 2 },
+            { "name": "Houseboat Stay", "duration": 12 },
+            { "name": "Mughal Gardens Visit", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Gardens & Markets",
+          "activities": [
+            { "name": "Shalimar Bagh", "duration": 2 },
+            { "name": "Nishat Bagh", "duration": 2 },
+            { "name": "Lal Chowk Market", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Temples & Mosques",
+          "activities": [
+            { "name": "Shankaracharya Temple", "duration": 2 },
+            { "name": "Hazratbal Shrine", "duration": 1 },
+            { "name": "Jama Masjid", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Day Excursions",
+          "activities": [
+            { "name": "Gulmarg Day Trip", "duration": 6 },
+            { "name": "Gondola Ride", "duration": 2 },
+            { "name": "Pashmina Shawl Shopping", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Rogan Josh", "place": "Kashmiri restaurants", "cost": 350 },
+        { "name": "Kashmiri Kahwa", "place": "Local tea shops", "cost": 80 },
+        { "name": "Nadru Yakhni", "place": "Traditional eateries", "cost": 250 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Houseboats", "price": null, "area": "Dal Lake" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Residency Road" }],
+        "luxury": [{ "name": "Luxury Houseboats", "price": null, "area": "Nigeen Lake" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "andaman-nicobar": {
+      "name": "Andaman & Nicobar",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Port Blair Arrival",
+          "activities": [
+            { "name": "Cellular Jail Visit", "duration": 2 },
+            { "name": "Light & Sound Show", "duration": 2 },
+            { "name": "Corbyn's Cove Beach", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Havelock Island",
+          "activities": [
+            { "name": "Ferry to Havelock", "duration": 2 },
+            { "name": "Radhanagar Beach", "duration": 3 },
+            { "name": "Beach Resort Stay", "duration": 12 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Water Activities",
+          "activities": [
+            { "name": "Scuba Diving", "duration": 3 },
+            { "name": "Snorkeling", "duration": 2 },
+            { "name": "Glass Bottom Boat Ride", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Island Hopping",
+          "activities": [
+            { "name": "Neil Island Visit", "duration": 5 },
+            { "name": "Natural Bridge", "duration": 1 },
+            { "name": "Local Seafood Dinner", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Fresh Seafood Platter", "place": "Beach shacks", "cost": 450 },
+        { "name": "Coconut Prawns", "place": "Island restaurants", "cost": 350 },
+        { "name": "Local Fish Curry", "place": "Traditional eateries", "cost": 300 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Beach Huts", "price": null, "area": "Havelock" }],
+        "mid": [{ "name": "Resorts", "price": null, "area": "Port Blair" }],
+        "luxury": [{ "name": "Luxury Beach Resorts", "price": null, "area": "Radhanagar" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "lakshadweep": {
+      "name": "Lakshadweep",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Agatti Island Arrival",
+          "activities": [
+            { "name": "Beach Arrival", "duration": 2 },
+            { "name": "Lagoon Views", "duration": 2 },
+            { "name": "Island Resort Stay", "duration": 12 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Water Sports",
+          "activities": [
+            { "name": "Kayaking in Lagoon", "duration": 2 },
+            { "name": "Snorkeling", "duration": 2 },
+            { "name": "Glass Bottom Boat", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Island Exploration",
+          "activities": [
+            { "name": "Bangaram Island Visit", "duration": 4 },
+            { "name": "Coral Reef Viewing", "duration": 2 },
+            { "name": "Beach Picnic", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Culture",
+          "activities": [
+            { "name": "Local Village Visit", "duration": 2 },
+            { "name": "Traditional Fishing", "duration": 2 },
+            { "name": "Sunset Cruise", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Tuna Fish Curry", "place": "Island kitchens", "cost": 300 },
+        { "name": "Coconut Based Dishes", "place": "Local homes", "cost": 250 },
+        { "name": "Fresh Seafood", "place": "Beach restaurants", "cost": 400 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Government Huts", "price": null, "area": "Agatti" }],
+        "mid": [{ "name": "Island Resorts", "price": null, "area": "Bangaram" }],
+        "luxury": [{ "name": "Luxury Beach Resorts", "price": null, "area": "Kadmat" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "tirupati": {
+      "name": "Tirupati",
+      "region": "south",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Temple Darshan",
+          "activities": [
+            { "name": "Venkateswara Temple Darshan", "duration": 4 },
+            { "name": "Laddu Prasadam", "duration": 1 },
+            { "name": "Temple Complex Tour", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Other Temples",
+          "activities": [
+            { "name": "Padmavathi Temple", "duration": 2 },
+            { "name": "Govindaraja Temple", "duration": 1 },
+            { "name": "Kapila Theertham", "duration": 1 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Nature & Views",
+          "activities": [
+            { "name": "Silathoranam (Natural Arch)", "duration": 2 },
+            { "name": "Tirumala Hills View", "duration": 2 },
+            { "name": "Akasa Ganga", "duration": 1 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Local Experience",
+          "activities": [
+            { "name": "Local Market Shopping", "duration": 2 },
+            { "name": "Traditional Food", "duration": 2 },
+            { "name": "Pilgrim Services", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Temple Prasadam", "place": "Temple kitchen", "cost": 50 },
+        { "name": "Andhra Meals", "place": "Local restaurants", "cost": 200 },
+        { "name": "Pongal", "place": "Breakfast spots", "cost": 80 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Tirumala Guesthouses", "price": null, "area": "Tirumala" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Tirupati Town" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Chandragiri" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "ajanta-ellora": {
+      "name": "Ajanta-Ellora",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Ajanta Caves",
+          "activities": [
+            { "name": "Ajanta Caves Tour", "duration": 4 },
+            { "name": "Cave Paintings Viewing", "duration": 2 },
+            { "name": "Guided Tour", "duration": 2 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Ellora Caves",
+          "activities": [
+            { "name": "Ellora Caves Exploration", "duration": 4 },
+            { "name": "Kailasa Temple", "duration": 2 },
+            { "name": "Buddhist & Jain Caves", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Attractions",
+          "activities": [
+            { "name": "Daulatabad Fort", "duration": 3 },
+            { "name": "Bibi Ka Maqbara", "duration": 2 },
+            { "name": "Local Markets", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Cultural Experience",
+          "activities": [
+            { "name": "Archaeological Museum", "duration": 2 },
+            { "name": "Traditional Craft Shopping", "duration": 2 },
+            { "name": "Local Food Tour", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Maharashtrian Thali", "place": "Local restaurants", "cost": 250 },
+        { "name": "Puran Poli", "place": "Sweet shops", "cost": 80 },
+        { "name": "Misal Pav", "place": "Breakfast joints", "cost": 100 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Guesthouses", "price": null, "area": "Aurangabad" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Near Caves" }],
+        "luxury": [{ "name": "Resorts", "price": null, "area": "Outskirts" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "kutch": {
+      "name": "Kutch",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "Bhuj Arrival",
+          "activities": [
+            { "name": "Bhujodi Village", "duration": 2 },
+            { "name": "Local Handicraft Centers", "duration": 2 },
+            { "name": "Aina Mahal", "duration": 1 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "White Desert",
+          "activities": [
+            { "name": "Great Rann of Kutch Visit", "duration": 4 },
+            { "name": "White Desert Experience", "duration": 3 },
+            { "name": "Desert Camp Stay", "duration": 12 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Cultural Villages",
+          "activities": [
+            { "name": "Kutch Museum", "duration": 2 },
+            { "name": "Traditional Villages Tour", "duration": 3 },
+            { "name": "Folk Music & Dance", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Wildlife & Nature",
+          "activities": [
+            { "name": "Kutch Wildlife Sanctuary", "duration": 3 },
+            { "name": "Flamingo Watching", "duration": 2 },
+            { "name": "Local Craft Shopping", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Kutchi Dabeli", "place": "Street stalls", "cost": 50 },
+        { "name": "Bajra Rotla", "place": "Traditional homes", "cost": 100 },
+        { "name": "Kutchi Thali", "place": "Local restaurants", "cost": 300 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Homestays", "price": null, "area": "Bhuj" }],
+        "mid": [{ "name": "Hotels", "price": null, "area": "Near Rann" }],
+        "luxury": [{ "name": "Desert Camps", "price": null, "area": "White Desert" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    },
+
+    "rann-of-kutch": {
+      "name": "Rann of Kutch",
+      "region": "west",
+      "days": [
+        {
+          "day": 1,
+          "theme": "White Desert Arrival",
+          "activities": [
+            { "name": "White Salt Desert Entry", "duration": 2 },
+            { "name": "Sunset Viewing", "duration": 2 },
+            { "name": "Desert Camp Check-in", "duration": 12 }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Full Moon Experience",
+          "activities": [
+            { "name": "Moonlit Desert Walk", "duration": 3 },
+            { "name": "Cultural Performances", "duration": 2 },
+            { "name": "Stargazing", "duration": 2 }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Local Exploration",
+          "activities": [
+            { "name": "Kala Dungar (Black Hill)", "duration": 3 },
+            { "name": "India Bridge View", "duration": 1 },
+            { "name": "Local Craft Villages", "duration": 2 }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Wildlife & Departure",
+          "activities": [
+            { "name": "Wild Bird Watching", "duration": 2 },
+            { "name": "Photography Session", "duration": 2 },
+            { "name": "Traditional Lunch", "duration": 2 }
+          ]
+        }
+      ],
+      "food_recommendations": [
+        { "name": "Desert Camp Dinner", "place": "Camp kitchen", "cost": 400 },
+        { "name": "Local Kutchi Food", "place": "Traditional", "cost": 250 },
+        { "name": "Buttermilk", "place": "Desert stalls", "cost": 30 }
+      ],
+      "stay": {
+        "budget": [{ "name": "Basic Tents", "price": null, "area": "Desert Camps" }],
+        "mid": [{ "name": "Swiss Tents", "price": null, "area": "Rann Utsav Area" }],
+        "luxury": [{ "name": "Luxury Tents", "price": null, "area": "Premium Desert" }]
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108"
+      }
+    }
+  }
+}      
